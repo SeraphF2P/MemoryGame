@@ -1,0 +1,13 @@
+* > {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+.board {
+  background-color: cornflowerblue;
+  width: 400px;
+  height: 300px;
+  border: solid black 1px;
+}

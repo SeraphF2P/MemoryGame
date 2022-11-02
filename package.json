@@ -1,0 +1,11 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "front-end practice",
+  "main": "MemoryGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jafer ali",
+  "license": "ISC"
+}
